@@ -1,0 +1,9 @@
+.headPage a{
+    border: 1px solid  gray ;
+    color: grey;
+    font-family: Arial,"Helvetica Neue",Helvetica,sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+    text-transform: uppercase;
+    text-decoration: none;
+}
