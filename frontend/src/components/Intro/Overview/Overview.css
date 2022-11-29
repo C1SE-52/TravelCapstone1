@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body html{
+    width: 100%;
+    height: 100%;
+}
+.head__overview__background{
+    width: 100%;
+    height: 90vh;
+    background-image: url(../About_img/about__overview__img.jpg);
+    background-size: 100%;
+}
+.head__overview__nav a,h5{
+    font-family: Arial,"Helvetica Neue",Helvetica,sans-serif;
+    font-weight: 400;
+    font-size: 13px; 
+    color: #7b7b7b;
+    text-align: center;
+    display: inline;
+    
+}
+.head__overview__nav a:hover{
+    color: orange;
+    transition: 0.3s;
+}
+.head__overview__nav{
+    transform: translateX(45%);
+}
+.head__overview__intro{
+    text-align: center;
+    position: absolute;
+    color: aliceblue;
+    bottom: 10%;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.head__overview__intro a{
+    color: aliceblue;
+   
+}
+.body__overview__content{
+    width: 40vw;
+}
+.body__overview__content p{
+    padding-top: 1rem;
+    display: block;
+    
+}
+.over__body__feedback__star{
+    position: absolute;
+    right: 45vw;
+}
+
+
