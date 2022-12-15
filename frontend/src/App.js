@@ -8,10 +8,10 @@ import Weather from './components/Intro/Weather/Weather';
 function App() {
   return (
     <div className="App">      
-        {/* <AboutDanang />        */}
+        <AboutDanang />       
         {/* <Overview/> */}
         {/* <Weather/> */}
-        <History/>
+        {/* <History/> */}
        <Footer/>
     </div>
   );
