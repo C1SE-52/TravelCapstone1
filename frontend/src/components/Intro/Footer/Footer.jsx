@@ -9,7 +9,7 @@ const Footer = () => {
 
                 <div className="container1">
                     <div className="row">
-                        <div className="col">
+                        {/* <div className="col">
                             <div className="footer-email">
                                 <div className="footer-email-doc">
                                     <h1>ĐĂNG KÝ NHẬN BẢN TIN</h1>
@@ -42,7 +42,7 @@ const Footer = () => {
 
 
                             </div>
-                        </div>
+                        </div> */}
 
 
                     </div>
@@ -53,11 +53,11 @@ const Footer = () => {
                             <h4 style={{ display: 'inline-block' }}>VỀ CHÚNG TÔI</h4>
                             <div className="footer-line"></div>
                             <div className="footer-row-info1">
-                                <h5>Bản quyền thuộc về UBND TP. Đà Nẵng Sở Du lịch Đà Nẵng</h5>
-                                <h5>Quản lý bởi Trung Tâm Xúc Tiến Du Lịch Đà Nẵng</h5>
+                                <h5>Đây là sản phẩm nhóm làm để giúp đỡ Du lịch Đà Nẵng</h5>
+                                <h5>Hi vọng giúp làm Xúc Tiến Du Lịch Đà Nẵng</h5>
                                 <h5>Tel: (84.236) 3.898.196 - Fax: (84.236) 3.812.029</h5>
-                                <h5>Contact us: media@danangfantasticity.com</h5>
-                                <h5>Giấy phép: 696/GP-STTTT ngày 20/10/2015 của Sở Thông tin Truyền thông Đà Nẵng</h5>
+                                <h5>Contact us: C1SE-52@gmail.com</h5>
+                                <h5>from DaNang with love</h5>
                             </div>
 
                         </div>
